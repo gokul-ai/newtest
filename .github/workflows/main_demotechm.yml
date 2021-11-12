@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'demotechm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67903C4771CB413D88255C5A25986CB3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF5351105FB44DC587A6C39D2FD6914C }}
           package: .
